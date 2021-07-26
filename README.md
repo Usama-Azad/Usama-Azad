@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on **Music Player App**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter** & **Deep Learning**
 
 - 👯 I’m looking to collaborate on **GitHub**
 
