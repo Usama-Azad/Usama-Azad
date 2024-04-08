@@ -8,7 +8,7 @@
 
 <h1 align="center"> Hi 👋, I'm Usama Azad</h1>
 
-<h3 align="center" style="color: orange;">Student & Backend Developer</h3> 
+<h3 align="center" style="color: orange;">Backend Developer</h3> 
 <br/>
 
 <p align='center'>
@@ -18,7 +18,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on **Music Player App**
+- 🔭 I’m currently working on **Python & Node.Js**
 
 - 🌱 I’m currently learning **Flutter** & **Deep Learning**
 
@@ -26,9 +26,9 @@
 
 - 👨‍💻 All of my projects are available at [**Here**](https://github.com/Usama-Azad/)
 
-- 💬 Ask me about **C++** or **Python**
+- 💬 Ask me about **C++**, **Python**, **Node.Js** and **Flutter**
 
-- 📫 How to reach me [**Instagram**](https://instagram.com/chusama_786)
+- 📫 How to reach me [**Linkedin**](https://linkedin.com/in/usama-azad)
 
 - ⚡ Fun fact **Developer** 🤨
 
@@ -121,5 +121,5 @@
 <h3 align="left" style="margin: 25px 0px 25px; font-size: 20px; font-weight: 500">Connect with Me:</h3>
 
 <p align="center">
-<a href="https://fb.com/usama.azad.92" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="fb" height="30" width="40" /></a> <a href="https://www.usamaazad2@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="hr" height="30" width="40" /></a> <a href="https://instagram.com/chusama_786" target="_blank"><img align="center" src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="ig" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/usama-azad" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="fb" height="30" width="40" /></a> <a href="https://www.usamaazad2@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="hr" height="30" width="40" /></a> <a href="https://linkedin.com/in/usama-azad" target="_blank"><img align="center" src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="ig" height="40" width="40" /></a>
 </p>
