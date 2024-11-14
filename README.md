@@ -8,7 +8,7 @@
 
 <h1 align="center"> Hi 👋, I'm Usama Azad</h1>
 
-<h3 align="center" style="color: orange;">Backend Developer</h3> 
+<h3 align="center" style="color: orange;">Backend 🖥️ & AI 🤖 Developer</h3> 
 <br/>
 
 <p align='center'>
@@ -18,15 +18,15 @@
 
 <br/>
 
-- 🔭 I’m currently working on **Python & Node.Js**
+- 🔭 I’m currently working on **Python & LLMs**
 
-- 🌱 I’m currently learning **Flutter** & **Deep Learning**
+- 🌱 I’m currently learning **RAG** & **LLMs Fine Tuning**
 
 - 👯 I’m looking to collaborate on **GitHub**
 
 - 👨‍💻 All of my projects are available at [**Here**](https://github.com/Usama-Azad/)
 
-- 💬 Ask me about **C++**, **Python**, **Node.Js** and **Flutter**
+- 💬 Ask me about **AI**, **Python**, **Node.Js** and **Flutter**
 
 - 📫 How to reach me [**Linkedin**](https://linkedin.com/in/usama-azad)
 
