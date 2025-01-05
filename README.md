@@ -8,9 +8,7 @@
 <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, &nbsp; I'm Usama Azad</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&center=true&vCenter=true&random=false&width=535&lines=AI,+LLMs+Developer+%F0%9F%A4%96;Python+Developer;NodeJs+Developer;Backend+Developer+%F0%9F%96%A5%EF%B8%8F" alt="Usama-Azad" />
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=900&color=F7A600&center=true&vCenter=true&width=535&lines=%E2%9C%A8+AI+Developer;%F0%9F%94%A5+LLMs%2C+RAG+%26+Fine-Tuning;%3C%2F%3E+Python+Developer;%3C%2F%3E+NodeJs+Developer;%3C%2F%3E+Backend+Developer;%F0%9F%92%A5+Killing+%E2%9B%8F%EF%B8%8F+bugs+from+5+years" alt="Usama-Azad" /></a>
 </p>
 
 
@@ -20,6 +18,8 @@
 
 
 <br/>
+
+╰┈➤
 
 - 🔭 I’m currently working on **AI, Python, LLMs, RAG and Fine-Tuning**
 
@@ -33,7 +33,9 @@
 
 - 📫 How to reach me [**Linkedin**](https://linkedin.com/in/usama-azad)
 
-- ⚡ Fun fact **Developer** 🤨
+- 🔥 Fun fact **Developer** 💀
+
+- 💥 Killing **bugs** from **5** years 🤨
 
 - 💞 My Favourite Languages are  **Python**, **Javascript** and **Dart**
 
@@ -42,6 +44,8 @@
 
 
 <h2 align="center" style="color: cyan; margin-top: 20px; font-size: 25px; font-weight: bold">GitHub Stats</h2>
+
+╰┈➤
 
 <h4 align="center" style="margin-bottom: 8px;">Visitor's Count :eyes:</h4>
 <p align="center" style="margin-bottom: 15px;"><img src="https://profile-counter.glitch.me/{Usama-Azad}/count.svg" alt="Usama Azad" /></p>
@@ -72,7 +76,7 @@
 
 <h3 align="left" style="margin-bottom: 25px; font-size: 20px; font-weight: 500">Languages and Tools:</h3>
 
-<br/>
+╰┈➤
 
 <p align="center"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a></p>
 
@@ -100,6 +104,9 @@
   Projects
 </summary>
 
+<br/>
+
+╰┈➤
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Usama-Azad&repo=Pickle-in-Cpp)](https://github.com/Usama-Azad/Pickle-in-Cpp) 
 
@@ -121,6 +128,9 @@
 <hr/>
 
 <h3 align="left" style="margin: 25px 0px 25px; font-size: 20px; font-weight: 500"> Connect with Me: <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50"/> </h3>
+
+
+╰┈➤
 
 <p align="center">
 <a href="https://linkedin.com/in/usama-azad" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="fb" height="30" width="40" /></a> <a href="https://www.usamaazad2@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="hr" height="30" width="40" /></a> <a href="https://linkedin.com/in/usama-azad" target="_blank"><img align="center" src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="ig" height="40" width="40" /></a>
