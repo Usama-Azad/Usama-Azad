@@ -1,32 +1,35 @@
 <p align="center">
-<img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+<img width="100px" height="100px" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/68641880?v=4" align="center" alt="Usama-Azad" />
 <h2 align="center">Profile</h2>
 </p>
 
 <br/>
 
+<h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, &nbsp; I'm Usama Azad</h1>
 
-<h1 align="center"> Hi 👋, I'm Usama Azad</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&center=true&vCenter=true&random=false&width=535&lines=AI,+LLMs+Developer+%F0%9F%A4%96;Python+Developer;NodeJs+Developer;Backend+Developer+%F0%9F%96%A5%EF%B8%8F" alt="Usama-Azad" />
+  </a>
+</p>
 
-<h3 align="center" style="color: orange;">Backend 🖥️ & AI 🤖 Developer</h3> 
-<br/>
 
 <p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Usama-Azad.Usama-Azad" alt="visitor badge"/>
+  <p align="center"> <img height="25px" src="https://komarev.com/ghpvc/?username=Usama-Azad&label=Profile%20views&color=0e75b6&style=flat" alt="Usama-Azad"/> </p>
 </p>
 
 
 <br/>
 
-- 🔭 I’m currently working on **Python & LLMs**
+- 🔭 I’m currently working on **AI, Python, LLMs, RAG and Fine-Tuning**
 
-- 🌱 I’m currently learning **RAG** & **LLMs Fine Tuning**
+- 🌱 I’m currently learning **Prompt Engineering**
 
 - 👯 I’m looking to collaborate on **GitHub**
 
 - 👨‍💻 All of my projects are available at [**Here**](https://github.com/Usama-Azad/)
 
-- 💬 Ask me about **AI**, **Python**, **Node.Js** and **Flutter**
+- 💬 Ask me about **AI, ML, LLMs, Python, Node.Js and Flutter**
 
 - 📫 How to reach me [**Linkedin**](https://linkedin.com/in/usama-azad)
 
@@ -41,7 +44,7 @@
 <h2 align="center" style="color: cyan; margin-top: 20px; font-size: 25px; font-weight: bold">GitHub Stats</h2>
 
 <h4 align="center" style="margin-bottom: 8px;">Visitor's Count :eyes:</h4>
-<p align="center" style="margin-bottom: 15px;"><img src="https://profile-counter.glitch.me/{Usama-Azad}/count.svg" alt="UsamaAzad" /></p>
+<p align="center" style="margin-bottom: 15px;"><img src="https://profile-counter.glitch.me/{Usama-Azad}/count.svg" alt="Usama Azad" /></p>
 
 
 <p align="center">
@@ -117,8 +120,7 @@
 <br/>
 <hr/>
 
-
-<h3 align="left" style="margin: 25px 0px 25px; font-size: 20px; font-weight: 500">Connect with Me:</h3>
+<h3 align="left" style="margin: 25px 0px 25px; font-size: 20px; font-weight: 500"> Connect with Me: <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50"/> </h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/usama-azad" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="fb" height="30" width="40" /></a> <a href="https://www.usamaazad2@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="hr" height="30" width="40" /></a> <a href="https://linkedin.com/in/usama-azad" target="_blank"><img align="center" src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="ig" height="40" width="40" /></a>
